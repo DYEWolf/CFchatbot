@@ -1,0 +1,216 @@
+[
+  {
+    "id": "6ad9fe99-2bf5-439e-af82-8e8b325352a5",
+    "data": [
+      {
+        "text": "somos ",
+        "userDefined": false
+      },
+      {
+        "text": "desarrolladores",
+        "alias": "type-of-hacker",
+        "meta": "@type-of-hacker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a015f829-e6de-4b5c-922b-550c44d1eedf",
+    "data": [
+      {
+        "text": "sip",
+        "alias": "first-time",
+        "meta": "@first-time",
+        "userDefined": false
+      },
+      {
+        "text": ", estamos nerviosos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d21ff82d-9e5b-4197-9bd4-d6df559636f1",
+    "data": [
+      {
+        "text": "no",
+        "alias": "first-time",
+        "meta": "@first-time",
+        "userDefined": false
+      },
+      {
+        "text": ", he ido a varios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ed2db0d-ad52-4ecd-bfa2-9bc8aad5c234",
+    "data": [
+      {
+        "text": "mi correo es ",
+        "userDefined": false
+      },
+      {
+        "text": "hola@cf.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b81c85f5-6a3a-4456-a212-d8ba3d5505df",
+    "data": [
+      {
+        "text": "al correo ",
+        "userDefined": false
+      },
+      {
+        "text": "hola@cf.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2bf53fc5-efc0-4929-bd5d-2425c4d790ca",
+    "data": [
+      {
+        "text": "mi equipo tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " integrantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "591fbf3b-ba31-4e39-a5c0-6904fa4cbc28",
+    "data": [
+      {
+        "text": "somos ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " personas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06dabc53-697e-4756-8afa-b38a33207e38",
+    "data": [
+      {
+        "text": "quiero registrarme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4807012-213e-40cb-a178-91315cfd0ebe",
+    "data": [
+      {
+        "text": "mi nombre es ",
+        "userDefined": false
+      },
+      {
+        "text": "fernando",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36ee18ff-a976-4eda-ad65-98e65dc13026",
+    "data": [
+      {
+        "text": "mi nombre es ",
+        "userDefined": false
+      },
+      {
+        "text": "christopher",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "23d5bfe1-fb42-4615-825d-891fa7fbb015",
+    "data": [
+      {
+        "text": "quiero registrarme al evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "602cea36-956d-4e13-aa1a-109d93011df3",
+    "data": [
+      {
+        "text": "quiero inscribirme al hackaton",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7ac5be7-f6e5-4d86-bef9-6ef67de881b7",
+    "data": [
+      {
+        "text": "Hola, quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boleto para codigofacilito hacks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
